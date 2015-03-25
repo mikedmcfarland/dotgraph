@@ -624,3 +624,5 @@ XDotGraph = (function(_super) {
   return XDotGraph;
 
 })(DotGraph);
+
+module.exports = DotGraph

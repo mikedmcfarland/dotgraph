@@ -1,0 +1,6 @@
+{
+  "name": "dotgraph",
+  "version": "0.0.1",
+  "description": "javascript parser and library for Graphviz dot/xdot format",
+  "main": "js/index.js"
+}
